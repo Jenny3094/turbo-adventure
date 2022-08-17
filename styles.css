@@ -90,7 +90,7 @@ main {
   outline-color: hsl(300, 69%, 71%);
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 480px) {
   html,
   body {
     overflow-x: hidden;
